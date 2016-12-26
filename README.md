@@ -1,7 +1,7 @@
 # wxapp-animateNumber
 微信小程序--滚动数字
 ##效果展示
-![mahua](http://jsh5css.cn/blog/wp-content/uploads/2016/12/20161226172301_82851.gif)
+![jsh5css.cn](http://jsh5css.cn/blog/wp-content/uploads/2016/12/20161226172301_82851.gif)
 
 ##使用方式
 ```javascript
@@ -30,5 +30,6 @@ import NumberAnimate from "../../utils/NumberAnimate";
 ##有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
-* 邮件: yuanyang613@163.com
+* Email: yuanyang613@163.com
 * QQ: 317147055
+* Blog: http://jsh5css.cn
