@@ -1,7 +1,7 @@
 # wxapp-animateNumber
 微信小程序--滚动数字
 ##效果展示
-![jsh5css.cn](http://jsh5css.cn/blog/wp-content/uploads/2016/12/20161226172301_82851.gif)
+![mahua](http://jsh5css.cn/blog/wp-content/uploads/2016/12/20161226172301_82851.gif)
 
 ##使用方式
 ```javascript
