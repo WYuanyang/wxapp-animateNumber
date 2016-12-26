@@ -1,0 +1,9 @@
+<!--pages/main/index.wxml-->
+<view class="animate-number">
+    <view class="num num1">{{num1}}{{num1Complete}}</view>
+    <view class="num num2">{{num2}}{{num2Complete}}</view>
+    <view class="num num3">{{num3}}{{num3Complete}}</view>
+    <view class="btn-box">
+        <button bindtap="animate"  type="primary" class="button">click me</button>
+    </view>
+</view>
